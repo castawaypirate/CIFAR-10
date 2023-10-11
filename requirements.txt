@@ -1,0 +1,6 @@
+numpy==1.26.0
+scikit-learn==1.3.1
+tensorflow==2.14.0
+matplotlib==3.8.0
+
+313/313 - 383s - loss: 0.3519 - accuracy: 0.8779 - val_loss: 0.3564 - val_accuracy: 0.8822 - 383s/epoch - 1s/step
